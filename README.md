@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto: Lista Enlazada Simple en Java
 
 Este proyecto implementa una estructura de lista enlazada simple en Java. Permite agregar, eliminar, buscar y mostrar elementos de una lista, así como invertir su orden.
@@ -29,7 +30,3 @@ Se usaron los números 0, 2, 4, 6 y 8 en este orden:
 9. Revertir la lista  
 10. Agregar 8 al inicio  
 11. Mostrar la lista final
-
-## Video Explicativo
-
-🔗 (Agregá aquí el enlace cuando lo tengas)
