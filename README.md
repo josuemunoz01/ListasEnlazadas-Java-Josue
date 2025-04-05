@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Proyecto: Lista Enlazada Simple en Java
+# Proyecto: Lista Enlazada en Java
 
-Este proyecto implementa una estructura de lista enlazada simple en Java. Permite agregar, eliminar, buscar y mostrar elementos de una lista, así como invertir su orden.
+Este proyecto implementa una estructura de lista enlazada en Java. Permite agregar, eliminar, buscar y mostrar elementos de una lista, así como invertir su orden.
 
 ## Estructura de Archivos
 
